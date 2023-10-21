@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @himonhimu
-- 👀 I’m interested in Programing
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning Node Js, React Native
-- 💞️ I’m looking to collaborate on any time
+- 💞️ I’m looking to collaborate at any time
 - 📫 How to reach me kmhimu87@gmail.com
 
 <!---
