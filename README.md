@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @himonhimu
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Node Js, React Native
+- 🌱 I’m currently learning Node Js, React Native, Next JS
 - 💞️ I’m looking to collaborate at any time
 - 📫 How to reach me kmhimu87@gmail.com
 
